@@ -1,0 +1,72 @@
+[7:15 am, 5/12/2024] +91 96245 36494: ** HCL Interview  ***
+
+
+1. What is linter
+2. what is provisioner
+3. what is dependances in terraform
+4. what is modules
+5. what is service connection
+6. what is splinter
+7. what is work item
+8. difference between splinter and work item
+9. difference between variable.tf and terraform.tfvars
+10. how can we save sensitive data in state file
+[7:15 am, 5/12/2024] +91 96245 36494: same question for me as well...
+
+just adding a few questions 
+
+1.)does move blocks affect current infrastructure 
+2.) whats is service principal 
+3.)what is owner file in .git folders 
+4.) recovery methods of tf State file & where we can store it
+5.) which one doesn't affect the variable:- default variable, description and types
+[7:15 am, 5/12/2024] +91 96245 36494: 1st round HCL question...1.what is module?
+2.what is provisioners?
+3.what is null resource?
+4.what is statefile?
+5.what is state locking in terraform?
+6.what is variable?
+7.write a code with the help of module and for_each?
+8.what is providers and write a code?
+9.how is the process to setup the terraform??
+10.what is file provisioners?
+11.what is data variable?
+[7:15 am, 5/12/2024] +91 96245 36494: todays' HCL interview question:round1:
+1. what dependency > implicit and explicit   share the syntax and chat
+2. what is move block in terraform
+3. what is state file and where we can store it
+4. when will state file create
+5. what is lock file. and why it is created
+6. what is difference between varible.tf and variables.tf
+7. what is terraform.tfvars
+8. what is service connection
+9. what are the thing required while creating service connection.
+10. what is basic in ADO
+11. what is stake holder in ADO
+12,.what are the security best practice in ADO
+
+round2:
+1. what dependency > implicit and explicit 
+2. how you will managed multiple subscription
+3. what is difference between vm and vmss
+4  there is requirement to create two vm and two databased which approach you will follow vm or vmss
+5. l…
+[7:15 am, 5/12/2024] +91 96245 36494: ** Second round HCL Interview  ***
+
+1. Give me a example of recently you may upgraded templates in terraform
+2. what are the data types are you familiar in terraform
+3. after which command state file will command
+4. what is stage terraform download module and providers
+5. what are backends you familiar with
+6. how do you encrypt the state file
+7. you are creating variable in terraform and you need to provide it's default value. what argument will you declare provide the default value
+8. I have a vm that created through terraform and install the Microsoft office after create vm. and now i run command terraform apply again. what will happen. Microsoft office will remove or will be there
+9. what are lifecycle rules in terraform. which are declared within resource block in terraf…
+[7:15 am, 5/12/2024] +91 96245 36494: ** Second round HCL Interview  ***
+
+What is meta-data in terraform
+what is diff b/w for-each and count
+what is service connection
+explain branching strategies
+How many types of branch we can create
+what are gates in ADO
